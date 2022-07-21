@@ -1,2 +1,4 @@
-// print out Git is Awesome!
-console.log("Git is Awesome!");
+// get input from user
+var input = prompt("Enter your name");
+// print input to console
+console.log(input);
